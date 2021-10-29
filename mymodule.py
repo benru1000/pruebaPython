@@ -7,6 +7,9 @@ def restaNumeros(num1, num2):
 
 
 
-a= sumaNumeros(3,3)
+a= 5
+b=7
 
-print("la suma es " + str(a))
+c= sumaNumeros(a,b)
+
+print(c)
